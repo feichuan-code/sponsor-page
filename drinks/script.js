@@ -11,7 +11,7 @@ var drinks_qrcodes = $('#drinks-qrcodes');
 var drinks_qrcode = $('#drinks-qrcode');
 var isMobile = /Android|webOS|iPhone|iPad|BlackBerry/i.test(navigator.userAgent);
 
-var GithubLink  =   "https://github.com/feichuan-code/sponsor-page/blob/master/drinks";
+var GithubLink  =   "https://github.com/feichuan-code/sponsor-page/blob/master/drinks/";
 var PayPalLink  =   "https://www.paypal.me/KaiyuanXie";
 $('#paypal-donate>a').href = PayPalLink;
 $('#github-box>a').href = GithubLink;
